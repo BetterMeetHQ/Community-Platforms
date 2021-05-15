@@ -16,7 +16,7 @@
 
 ## Bevy
 
-[GDG](https://gdg.community.dev/), Mongo Live
+[GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/)
 
 ---
 
