@@ -14,6 +14,10 @@
 - https://playgroup.community/
 - https://www.mightynetworks.com/
 
+## Bevy
+
+[GDG](https://gdg.community.dev/), Mongo Live
+
 ---
 
 Another reviews:
