@@ -9,3 +9,9 @@
 | [Tribe](https://tribe.so/) | SaaS | paid | proprietary |
 | [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
+
+---
+
+Another reviews:
+
+- https://www.feverbee.com/communityplatforms/
