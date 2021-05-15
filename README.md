@@ -11,6 +11,8 @@
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 
+- https://playgroup.community/
+
 ---
 
 Another reviews:
