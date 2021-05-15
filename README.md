@@ -1,8 +1,11 @@
 # Community Platforms
 
-- [Panion](https://panion.com/)
-- [InSided](https://www.insided.com/)
-- [Bevy](https://www.bevy.com/)
-- [Tribe](https://tribe.so/)
-- [Hivebrite](https://hivebrite.com/)
-- [Circle](https://circle.so/)
+| Platform | Infrastructure | Price | License |
+| --- | --- | --- | --- |
+| [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
+| [Panion](https://panion.com/) | SaaS | paid | proprietary |
+| [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
+| [Bevy](https://www.bevy.com/) | SaaS | paid | proprietary |
+| [Tribe](https://tribe.so/) | SaaS | paid | proprietary |
+| [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
+| [Circle](https://circle.so/) | SaaS | paid | proprietary |
