@@ -12,6 +12,7 @@
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 
 - https://playgroup.community/
+- https://www.mightynetworks.com/
 
 ---
 
