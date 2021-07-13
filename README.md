@@ -11,7 +11,7 @@
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Discourse](https://www.discourse.org/) | SaaS | free, paid | open source |
-| [Forem](https://www.forem.com/) | SaaS | free, paid | open source |
+| [Forem](https://www.forem.com/) | SaaS | free | open source |
 
 - https://playgroup.community/
 - https://www.mightynetworks.com/
