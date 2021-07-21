@@ -14,6 +14,7 @@
 | [Forem](https://www.forem.com/) | SaaS | free | open source |
 | [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
+| [Zapnito](https://zapnito.com/) | SaaS | paid | proprietary |
 
 - https://playgroup.community/
 - https://www.mightynetworks.com/
