@@ -2,6 +2,7 @@
 
 | Platform | Infrastructure | Price | License |
 | --- | --- | --- | --- |
+| [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
 | [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
 | [Panion](https://panion.com/) | SaaS | paid | proprietary |
 | [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
@@ -11,6 +12,7 @@
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Discourse](https://www.discourse.org/) | SaaS | free, paid | open source |
+| [GetTogether](https://gettogether.community/) | SaaS | free | open source |
 | [Forem](https://www.forem.com/) | SaaS | free | open source |
 | [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
