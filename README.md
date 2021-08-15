@@ -11,7 +11,7 @@
 | [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
-| [Commudle](https://commudle.com/) | SaaS | free, paid | proprietary |
+| [Commudle](https://commudle.com/) | SaaS | free, paid? | proprietary? |
 | [Discourse](https://www.discourse.org/) | SaaS | free, paid | open source |
 | [GetTogether](https://gettogether.community/) | SaaS | free | open source |
 | [Forem](https://www.forem.com/) | SaaS | free | open source |
