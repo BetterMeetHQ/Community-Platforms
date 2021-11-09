@@ -24,7 +24,7 @@
 
 ## Bevy
 
-[GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/)
+[GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/), [CNCF](https://community.cncf.io/)
 
 ---
 
