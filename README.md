@@ -28,6 +28,10 @@
 
 [GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/), [CNCF](https://community.cncf.io/)
 
+### InSided
+
+[Nutanix](https://next.nutanix.com/), [C2C](https://community.c2cglobal.com/)
+
 ## Messenger Community Platforms
 
 - Telegram Groups
