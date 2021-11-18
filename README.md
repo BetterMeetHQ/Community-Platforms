@@ -1,4 +1,6 @@
-# Community Platforms
+#  Community Platforms
+
+## Web Community Platforms
 
 | Platform | Infrastructure | Price | License |
 | --- | --- | --- | --- |
@@ -22,9 +24,19 @@
 - https://playgroup.community/
 - https://www.mightynetworks.com/
 
-## Bevy
+### Bevy
 
 [GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/), [CNCF](https://community.cncf.io/)
+
+## Messenger Community Platforms
+
+- Telegram Groups
+- Whatsapp Groups
+
+## Social Media Community Platforms
+
+- Facebook Groups
+- LinkedIn Groups
 
 ---
 
