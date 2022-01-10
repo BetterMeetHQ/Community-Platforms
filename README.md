@@ -4,21 +4,22 @@
 
 | Platform | Infrastructure | Price | License |
 | --- | --- | --- | --- |
-| [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
-| [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
-| [Panion](https://panion.com/) | SaaS | paid | proprietary |
-| [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
 | [Bevy](https://www.bevy.com/) | SaaS | paid | proprietary |
-| [Tribe](https://tribe.so/) | SaaS | free, paid | proprietary |
-| [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
-| [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Commudle](https://commudle.com/) | SaaS | free, paid? | proprietary? |
 | [Discourse](https://www.discourse.org/) | SaaS | free, paid | open source |
-| [GetTogether](https://gettogether.community/) | SaaS | free | open source |
 | [Forem](https://www.forem.com/) | SaaS | free | open source |
-| [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
+| [GetTogether](https://gettogether.community/) | SaaS | free | open source |
+| [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
+| [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
+| [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
+| [Kissflow](https://kissflow.com/) | SaaS | paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
+| [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
+| [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
+| [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
+| [Panion](https://panion.com/) | SaaS | paid | proprietary |
+| [Tribe](https://tribe.so/) | SaaS | free, paid | proprietary |
 | [Zapnito](https://zapnito.com/) | SaaS | paid | proprietary |
 
 - https://playgroup.community/
