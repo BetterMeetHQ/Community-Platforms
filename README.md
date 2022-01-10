@@ -28,7 +28,9 @@
 
 ### Bevy
 
-[GDG](https://gdg.community.dev/), [MongoDB](https://live.mongodb.com/), [CNCF](https://community.cncf.io/)
+- [GDG](https://gdg.community.dev/)
+- [MongoDB](https://live.mongodb.com/)
+- [CNCF](https://community.cncf.io/)
 
 ### InSided
 
