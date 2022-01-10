@@ -53,6 +53,7 @@ Khoros is formerely known as Lithium.
 ## Messenger Community Platforms
 
 - Telegram Groups
+- Signal Groups
 - Whatsapp Groups
 
 ## Social Media Community Platforms
