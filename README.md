@@ -1,5 +1,7 @@
 #  Community Platforms
 
+A curated list of all known community platforms with some examples of they usage by different customers. If you want to submit a new platform, please do so via a pubb request or opening an issue. Contributions and stars are very welcome!
+
 ## Web Community Platforms
 
 | Platform | Infrastructure | Price | License |
@@ -23,6 +25,7 @@
 | [Tribe](https://tribe.so/) | SaaS | free, paid | proprietary |
 | [Zapnito](https://zapnito.com/) | SaaS | paid | proprietary |
 
+Misc:
 - https://playgroup.community/
 - https://www.mightynetworks.com/
 
