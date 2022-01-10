@@ -37,7 +37,15 @@
 
 ### Khoros
 
+Khoros is formerely known as Lithium.
+
 - [Google Cloud Community](https://www.googlecloudcommunity.com/)
+- [Shopify](https://community.shopify.com/)
+- [Magento](https://community.magento.com/)
+- [Atlassian](https://community.atlassian.com/)
+- [HubSpot](https://community.hubspot.com/)
+- [upwork](https://community.upwork.com/)
+- [Power Bi](https://community.powerbi.com/)
 
 ## Messenger Community Platforms
 
@@ -48,6 +56,7 @@
 
 - Facebook Groups
 - LinkedIn Groups
+- Twitter Communities
 
 ---
 
