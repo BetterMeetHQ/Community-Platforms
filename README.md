@@ -13,6 +13,7 @@
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
+| [Khoros](https://khoros.com/) (ex Lithium) | SaaS | paid | proprietary |
 | [Kissflow](https://kissflow.com/) | SaaS | paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
 | [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
@@ -31,7 +32,12 @@
 
 ### InSided
 
-[Nutanix](https://next.nutanix.com/), [C2C](https://community.c2cglobal.com/)
+- [Nutanix](https://next.nutanix.com/)
+- [C2C](https://community.c2cglobal.com/)
+
+### Khoros
+
+- [Google Cloud Community](https://www.googlecloudcommunity.com/)
 
 ## Messenger Community Platforms
 
