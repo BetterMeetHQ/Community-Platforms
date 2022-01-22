@@ -39,6 +39,7 @@ Misc:
 
 - [Nutanix](https://next.nutanix.com/)
 - [C2C](https://community.c2cglobal.com/)
+- [Zapier](https://community.zapier.com/)
 
 ### Khoros
 
