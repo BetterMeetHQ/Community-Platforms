@@ -17,6 +17,7 @@ A curated list of all known community platforms with some examples of they usage
 | [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
 | [Khoros](https://khoros.com/) (ex Lithium) | SaaS | paid | proprietary |
 | [Kissflow](https://kissflow.com/) | SaaS | paid | proprietary |
+| [Luma](https://lu.ma/) | SaaS | free, paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
 | [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
 | [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
