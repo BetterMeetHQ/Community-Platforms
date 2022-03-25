@@ -23,6 +23,7 @@ A curated list of all known community platforms with some examples of they usage
 | [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
 | [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
 | [Panion](https://panion.com/) | SaaS | paid | proprietary |
+| [Salesforce Experience Cloud](https://www.salesforce.com/eu/products/experience-cloud/overview/) | SaaS | paid | proprietary |
 | [Tribe](https://tribe.so/) | SaaS | free, paid | proprietary |
 | [Zapnito](https://zapnito.com/) | SaaS | paid | proprietary |
 
