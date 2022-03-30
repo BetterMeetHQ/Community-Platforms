@@ -21,6 +21,7 @@ A curated list of all known community platforms with some examples of they usage
 | [Luma](https://lu.ma/) | SaaS | free, paid | proprietary |
 | [LumApps](https://www.lumapps.com/) | SaaS | paid | proprietary |
 | [Meetup](https://www.meetup.com/) | SaaS | paid | proprietary |
+| [Mighty Networks](https://www.mightynetworks.com/) | SaaS | paid | proprietary |
 | [Mobilize](https://www.mobilize.io/) | SaaS | free, paid | proprietary |
 | [Open Social](https://www.getopensocial.com/) | SaaS | paid | proprietary |
 | [Panion](https://panion.com/) | SaaS | paid | proprietary |
