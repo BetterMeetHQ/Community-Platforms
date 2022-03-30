@@ -9,9 +9,9 @@ A curated list of all known community platforms with some examples of they usage
 | [Bevy](https://www.bevy.com/) | SaaS | paid | proprietary |
 | [Circle](https://circle.so/) | SaaS | paid | proprietary |
 | [Commudle](https://commudle.com/) | SaaS | free, paid? | proprietary? |
-| [Discourse](https://www.discourse.org/) | SaaS | free, paid | open source |
-| [Forem](https://www.forem.com/) | SaaS | free | open source |
-| [GetTogether](https://gettogether.community/) | SaaS | free | open source |
+| [Discourse](https://www.discourse.org/) | SaaS, self hosted | free, paid | open source |
+| [Forem](https://www.forem.com/) | SaaS, self hosted | free | open source |
+| [GetTogether](https://gettogether.community/) | SaaS, self hosted | free | open source |
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
@@ -27,6 +27,10 @@ A curated list of all known community platforms with some examples of they usage
 | [Salesforce Experience Cloud](https://www.salesforce.com/eu/products/experience-cloud/overview/) | SaaS | paid | proprietary |
 | [Tribe](https://tribe.so/) | SaaS | free, paid | proprietary |
 | [Zapnito](https://zapnito.com/) | SaaS | paid | proprietary |
+
+Affiliations:
+- Bevy is affiliated with [CMX](https://cmxhub.com/)
+- Higher Logic is affiliated with [The Community Roundtable](https://communityroundtable.com/)
 
 Misc:
 - https://playgroup.community/
