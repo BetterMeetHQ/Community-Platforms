@@ -36,6 +36,7 @@ Affiliations:
 Misc:
 - https://playgroup.community/
 - https://www.mightynetworks.com/
+- https://www.trustradius.com/community-platforms
 
 ### Bevy
 
