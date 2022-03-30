@@ -15,6 +15,7 @@ A curated list of all known community platforms with some examples of they usage
 | [Higher Logic](https://www.higherlogic.com/) | SaaS | paid | proprietary |
 | [Hivebrite](https://hivebrite.com/) | SaaS | paid | proprietary |
 | [InSided](https://www.insided.com/) | SaaS | paid | proprietary |
+| [Invision Community](https://invisioncommunity.com/) | SaaS, self hosted | paid | proprietary |
 | [Khoros](https://khoros.com/) (ex Lithium) | SaaS | paid | proprietary |
 | [Kissflow](https://kissflow.com/) | SaaS | paid | proprietary |
 | [Luma](https://lu.ma/) | SaaS | free, paid | proprietary |
