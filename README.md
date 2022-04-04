@@ -66,6 +66,7 @@ Khoros is formerely known as Lithium.
 - [Upwork](https://community.upwork.com/)
 - [Power BI](https://community.powerbi.com/)
 - [Cisco](https://community.cisco.com/)
+- [AirBNB](https://community.withairbnb.com/)
 
 ## Messenger Community Platforms
 
