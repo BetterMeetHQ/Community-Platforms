@@ -40,9 +40,10 @@ Misc:
 
 ### Bevy
 
+- [CNCF](https://community.cncf.io/)
 - [GDG](https://gdg.community.dev/)
 - [MongoDB](https://live.mongodb.com/)
-- [CNCF](https://community.cncf.io/)
+- [SOLIDWORKS User Group Network](https://community.swugn.org/)
 - [Unreal Engine](https://communities.unrealengine.com/)
 
 ## Circle
